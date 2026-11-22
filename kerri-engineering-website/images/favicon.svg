@@ -1,0 +1,9 @@
+<!-- Brand mark: kerri-mark-small-navy.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Kerri">
+  <g fill="#0E2A47">
+    <path d="M88 12 L48 12 A38 38 0 1 0 80.9 69" fill="none" stroke="#0E2A47" stroke-width="8"/>
+    <rect x="29" y="30" width="10" height="40" fill="#0E2A47"/>
+    <polygon points="39,48 55,30 67,30 39,61" fill="#0E2A47"/>
+    <rect x="40.5" y="58" width="30" height="11" rx="5.5" transform="rotate(38 55.5 63.5)" fill="#0E2A47"/>
+  </g>
+</svg>
